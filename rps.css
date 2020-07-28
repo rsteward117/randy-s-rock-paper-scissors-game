@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: red;
+}
+h1{
+    color: red;
+    padding: 0px 0px 0px 25%;
+}
+img{
+    width: 300px;
+    height: 33.33%;
+   
+}
+.rps{
+    float:left;
+    width: 20%;
+     padding: 5%;
+    text-align: center;
+}
+.Uscore{
+  
+    text-align: center;
+    position: absolute;
+    top: 92.70%;
+    right: 88.22%;
+    
+}
+
+.Cscore{
+    float: right;
+    text-align: center;
+}
+textarea{
+text-align: center;
+}
